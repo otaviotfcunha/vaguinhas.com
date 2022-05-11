@@ -6,7 +6,7 @@ Grupo
 Cleber Pereira dos Santos Junior
 João Pedro Domingues Telini
 Matheus Cavalcanti Gonçalves
-Otávio Tadeu Franklin da Cunha
+Otávio Thadeu Franklin da Cunha
 Pedro Henrique Leite dos Santos
 
 Justificativa
